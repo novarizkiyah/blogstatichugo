@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My Nova Site Hugo'
+theme = 'ananke'
+[permalinks]
+    blog = ":slug"
